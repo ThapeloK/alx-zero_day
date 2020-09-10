@@ -1,3 +1,3 @@
 # Vagrant
 
-### Storing uname for the ubuntu vm used
+##### Storing uname for the ubuntu vm used
